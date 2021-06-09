@@ -11,7 +11,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=parted
-PKG_VERSION:=3.2
+PKG_VERSION:=3.4
 PKG_RELEASE:=1
 
 PKG_INSTALL:=1
